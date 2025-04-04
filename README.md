@@ -1,3 +1,5 @@
+![Hello, I'm crashlar](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,+I'm+crashlar!&height=100&section=header)
+
 🔹 Aspiring Data Scientist passionate about Machine Learning, Data Analysis, and AI with a strong foundation in mathematics, statistics, and algorithm development. Dedicated to solving real-world problems through data-driven decision-making.
 
 🔹 Technical Proficiency: Skilled in Python, SQL, and ML algorithms, leveraging powerful libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. Experienced in EDA, feature engineering, data preprocessing, and model deployment to extract meaningful insights and enhance predictive performance.
@@ -42,4 +44,6 @@
 
 
 <img align = "right"  src="https://komarev.com/ghpvc/?username=crashlar1&style=flat-square&color=blue" alt=""/>
+
+
 
