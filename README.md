@@ -1,8 +1,3 @@
-<h1 align = "center"> Hey!! 👋 </h1> 
-<img align = "right"  src="https://komarev.com/ghpvc/?username=crashlar1&style=flat-square&color=blue" alt=""/>
-
----
-
 🔹 Aspiring Data Scientist passionate about Machine Learning, Data Analysis, and AI with a strong foundation in mathematics, statistics, and algorithm development. Dedicated to solving real-world problems through data-driven decision-making.
 
 🔹 Technical Proficiency: Skilled in Python, SQL, and ML algorithms, leveraging powerful libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. Experienced in EDA, feature engineering, data preprocessing, and model deployment to extract meaningful insights and enhance predictive performance.
@@ -47,3 +42,6 @@
 💡 _"Every dataset tells a story. My job? To find it and make it valuable!"_ 🚀  
 
 ---
+
+<img align = "right"  src="https://komarev.com/ghpvc/?username=crashlar1&style=flat-square&color=blue" alt=""/>
+
