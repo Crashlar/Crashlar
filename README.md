@@ -2,18 +2,19 @@
 
 🔹 Technical Proficiency: Skilled in Python, SQL, and ML algorithms, leveraging powerful libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. Experienced in EDA, feature engineering, data preprocessing, and model deployment to extract meaningful insights and enhance predictive performance.
 
- 
-
-
----
-
 ##  Tech Stack  
 <div align="center">  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Statistics-1D3557?style=for-the-badge&logo=databricks&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>  
+
+
 </div>  
 
 <!--
@@ -28,18 +29,17 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=crashlar1&theme=radical" width="48%"/>  
 </div>  -->
 
----
 <!--
 ## 🕴🏻 Feel Free to Reach Me  
 📩 **Email:** mukeshkumar.in25@gmail.com  
 💼 **LinkedIn:** [crashlar1](https://linkedin.com/in/crashlar1)  
 🐦 **Twitter:** [crashlar1](https://twitter.com/crashlar1)  
 📂 **Portfolio:** [crashlar1.com](https://crashlar1.com)  -->
-
-## Fact  
+ 
 💡 _"Every dataset tells a story. My job? To find it and make it valuable!"_ 🚀  
 
 ---
+
 
 <img align = "right"  src="https://komarev.com/ghpvc/?username=crashlar1&style=flat-square&color=blue" alt=""/>
 
