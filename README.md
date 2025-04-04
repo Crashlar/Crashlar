@@ -1,20 +1,49 @@
-<h1 align="center">Hi 👋, I'm Mukesh Kumar</h1>
-<h3 align="center">A Data Science from India</h3>
+<h1 align = "center"> Hey!! 👋 </h1> 
+<img align = "right"  src="https://komarev.com/ghpvc/?username=crashlar1&style=flat-square&color=blue" alt=""/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crashlar1&label=Profile%20views&color=0e75b6&style=flat" alt="crashlar1" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crashlar1" alt="crashlar1" /></a> </p>
+🔹 Aspiring Data Scientist passionate about Machine Learning, Data Analysis, and AI with a strong foundation in mathematics, statistics, and algorithm development. Dedicated to solving real-world problems through data-driven decision-making.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/crashlar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crashlar" height="30" width="40" /></a>
-</p>
+🔹 Technical Proficiency: Skilled in Python, SQL, and ML algorithms, leveraging powerful libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. Experienced in EDA, feature engineering, data preprocessing, and model deployment to extract meaningful insights and enhance predictive performance.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+ 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crashlar1&show_icons=true&locale=en&layout=compact" alt="crashlar1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crashlar1&show_icons=true&locale=en" alt="crashlar1" /></p>
+---
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+##  Tech Stack  
+<div align="center">  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+</div>  
+
+<!--
+## 🚀 Featured Projects  
+🌟 **Check out some of my top projects!**  
+-->
+---
+
+<!--## 📊 GitHub Stats  
+<div align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=crashlar1&show_icons=true&theme=radical" width="48%"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=crashlar1&theme=radical" width="48%"/>  
+</div>  -->
+
+---
+
+## 🕴🏻 Feel Free to Reach Me  
+📩 **Email:** mukeshkumar.in25@gmail.com  
+💼 **LinkedIn:** [crashlar1](https://linkedin.com/in/crashlar1)  
+<!--🐦 **Twitter:** [crashlar1](https://twitter.com/crashlar1)  
+📂 **Portfolio:** [crashlar1.com](https://crashlar1.com)  -->
+
+---
+
+## Fact  
+💡 _"Every dataset tells a story. My job? To find it and make it valuable!"_ 🚀  
+
+---
