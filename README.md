@@ -19,6 +19,8 @@
 
 </div>  
 
+
+
 <!--
 ## 🚀 Featured Projects  
 🌟 **Check out some of my top projects!**  
@@ -41,6 +43,10 @@
 💡 _"Every dataset tells a story. My job? To find it and make it valuable!"_ 🚀  
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/under-construction.gif" alt="Under Construction">
+</p>
 
 
 <img align = "right"  src="https://komarev.com/ghpvc/?username=crashlar1&style=flat-square&color=blue" alt=""/>
