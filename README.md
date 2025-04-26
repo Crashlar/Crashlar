@@ -29,16 +29,16 @@
 
 <!--## 📊 GitHub Stats  
 <div align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=crashlar1&show_icons=true&theme=radical" width="48%"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=crashlar1&theme=radical" width="48%"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=Crashlar&show_icons=true&theme=radical" width="48%"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Crashlar&theme=radical" width="48%"/>  
 </div>  -->
 
 <!--
 ## 🕴🏻 Feel Free to Reach Me  
 📩 **Email:** mukeshkumar.in25@gmail.com  
-💼 **LinkedIn:** [crashlar1](https://linkedin.com/in/crashlar1)  
-🐦 **Twitter:** [crashlar1](https://twitter.com/crashlar1)  
-📂 **Portfolio:** [crashlar1.com](https://crashlar1.com)  -->
+💼 **LinkedIn:** [Crashlar](https://linkedin.com/in/Crashlar)  
+🐦 **Twitter:** [Crashlar](https://twitter.com/Crashlar)  
+📂 **Portfolio:** [Crashlar.com](https://Crashlar.com)  -->
  
 💡 _"Every dataset tells a story. My job? To find it and make it valuable!"_ 🚀  
 
@@ -49,7 +49,7 @@
 </p>
 
 
-<img align = "right"  src="https://komarev.com/ghpvc/?username=crashlar1&style=flat-square&color=blue" alt=""/>
+<img align = "right"  src="https://komarev.com/ghpvc/?username=Crashlar&style=flat-square&color=blue" alt=""/>
 
 
 
